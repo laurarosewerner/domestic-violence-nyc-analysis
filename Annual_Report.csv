@@ -1,0 +1,342 @@
+﻿Year,Category,Bronx,Brooklyn,Manhattan,Queens,Staten island,Citywide
+2020,FJC_Client_Visits,"7,602","9,470","6,857","12,870","6,535","43,334"
+2020,FJC_Unique_Clients,"2,609","3,642","1,733","4,296","1,518","13,798"
+2020,FJC_Unique_Clients_Service_Safety_Plan,"2,154","2,587","1,477","2,849","1,171","10,238"
+2020,FJC_Unique_Clients_Service_Crim_Just,950,"1,333",357,756,320,"3,716"
+2020,FJC_Unique_Clients_Service_Civ_Legal,912,"1,157",797,"1,650",634,"5,150"
+2020,FJC_Unique_Clients_Service_Counseling,920,932,"1,164","2,419",722,"6,157"
+2020,FJC_Unique_Clients_Service_Prac_Assistance,333,196,218,203,143,"1,093"
+2020,FJC_Unique_Clients_Service_Eco_Empower,146,135,267,151,150,849
+2020,FJC_Unique_Clients_Service_Housing_Shelter,159,187,309,246,170,"1,071"
+2020,FJC_Unique_Clients_Service_Health_Mental_Health,62,78,72,229,44,485
+2020,Contracted_Legal_Family_Law,2,2,2,2,2,10
+2020,Contracted_Legal_Family_Law_Para,1,1,1,1,1,5
+2020,Contracted_Legal_Immigration_Law,1,1,1,1,1,5
+2020,Contracted_Legal_Immigration_Law_Para,,,,,,3
+2020,Contracted_Legal_Housing_Law,,,,,,3
+2020,Contracted_Legal_Language_Spanish,9,4,5,2,4,15
+2020,Contracted_Legal_Language_Arabic,0,1,0,0,0,1
+2020,Contracted_Legal_Language_Korean,0,0,0,1,0,1
+2020,Contracted_Legal_Language_Russian,0,0,1,0,0,1
+2020,contracted_legal_language_farsi,0,1,0,0,0,1
+2020,contracted_legal_language_polish,0,1,0,0,0,1
+2020,contracted_legal_language_portuguese,0,0,1,0,0,1
+2020,Contracted_NonLegal_Case_Management,3,3,2,2,2,12
+2020,Contracted_NonLegal_Children_Services,4,4,4,4,4,20
+2020,Contracted_NonLegal_Reception_Screening,4,4,4,4,4,20
+2020,Econ_Empower_W!SE,1,1,1,1,1,5
+2020,Econ_Empower_Steps_Success,0,0,1,0,0,1
+2020,Econ_Empower_Everywhere,0,0,1,0,0,1
+2020,Econ_Empower_SFF,1,0,1,0,0,2
+2020,Econ_Empower_GetCoveredNYC,1,1,0,0,0,2
+2020,Econ_Empower_HRA,1,1,1,1,1,5
+2020,Econ_Empower_SNAP,1,1,0,0,0,2
+2020,Econ_Empower_HousingLink,1,1,1,1,1,5
+2020,Training_City_Agency_Staff,,,,,,22
+2020,Training_Non_Profit_Staff,,,,,,54
+2020,Training_Community_Members,,,,,,2
+2020,Training_Total,,,,,,78
+2020,Healthy_Rel_Workshops_Youth,,,,,,105
+2020,Healthy_Rel_Workshops_Parents,,,,,,2
+2020,Healthy_Rel_Workshops_Staff,,,,,,12
+2020,Healthy_Rel_Workshops_Total,,,,,,119
+2020,Outreach_Communiity_Events,,,,,,85
+2020,Outreach_Communiity_Meetings,,,,,,90
+2020,Outreach_Presentations,,,,,,20
+2020,Outreach_Other,,,,,,24
+2020,Outreach_Total,,,,,,219
+2020,note_community_org,,,,,,116
+2020,note_city_agency,,,,,,103
+2020,note_elected,,,,,,134
+2020,note_hosp_med,,,,,,44
+2020,note_essen_bus,,,,,,522
+2020,note_total,,,,,,919
+2020,Reports_Published_Annual_Reports,,,,,,"ENDGBV Annual Fact Sheet 2019;
+
+ENDGBV Annual Report: 2019;
+
+2020 Annual Report on Outreach to Cosmetologists"
+2020,Reports_Published_Research_Reports,,,,,,"Intersection of Domestic Violence, Race/Ethnicity, and Sex;
+
+New York City Family Justice Centers: Supporting Our Foreign-Born Clients: 2010-2019;
+
+ENDGBV IN FOCUS: Survey Findings from the NYC Mayor's Office to End Domestic and Gender Based Violence (ENDGBV) Training Team's Intimate Partner Violence (IPV) Trainings with the New York City Department of Homeless Services (DHS) Employees, 2017-2019;
+
+ENDGBV Social Media Outreach, Paid Advertising, and the NYC HOPE Resource Directory during COVID-19;
+
+Data Brief: Intimate Partner Homicide-Suicide in New York City 2010-2018"
+2020,Reports_Published_Data_Reports,,,,,,"2019 Intimate Partner Violence Snapshot;
+
+2019 Family-Related Violence Snapshot;
+
+Family Justice Center Client Satisfaction Survey Results"
+2020,Reports_Published_Other_Reports,,,,,,"2020 Annual Domestic Violence Fatality Review Committee Report;
+
+Using Restorative Approaches To Address Intimate Partner Violence: A New York City Blueprint"
+2021,FJC_Client_Visits,"7,792","8,267","7,938","11,955","6,754","42,706"
+2021,FJC_Unique_Clients,"2,193","2,939","1,932","4,558","1,650","13,272"
+2021,FJC_Unique_Clients_Service_Safety_Plan,"1,831","1,838","1,676","2,927","1,112","9,384"
+2021,FJC_Unique_Clients_Service_Crim_Just,264,171,384,705,246,"1,770"
+2021,FJC_Unique_Clients_Service_Civ_Legal,"1,004","1,202",887,"1,214",755,"5,062"
+2021,FJC_Unique_Clients_Service_Counseling,709,686,724,"1,115",442,"3,676"
+2021,FJC_Unique_Clients_Service_Prac_Assistance,78,28,51,59,63,279
+2021,FJC_Unique_Clients_Service_Eco_Empower,105,134,172,96,146,653
+2021,FJC_Unique_Clients_Service_Housing_Shelter,72,220,346,133,205,976
+2021,FJC_Unique_Clients_Service_Health_Mental_Health,45,129,102,102,44,422
+2021,Contracted_Legal_Family_Law,2,2,4,2,2,12
+2021,Contracted_Legal_Family_Law_Para,1,1,1,1,1,5
+2021,Contracted_Legal_Immigration_Law,1,1,2,1,1,6
+2021,Contracted_Legal_Immigration_Law_Para,,,,,,3
+2021,Contracted_Legal_Housing_Law,,,,,,3
+2021,Contracted_Legal_Language_Spanish,8,1,5,2,4,20
+2021,Contracted_Legal_Language_Arabic,0,1,0,0,0,1
+2021,Contracted_Legal_Language_Korean,0,0,0,1,0,1
+2021,Contracted_Legal_Language_Russian,0,0,1,0,0,1
+2021,contracted_legal_language_farsi,0,0,0,0,0,0
+2021,contracted_legal_language_polish,0,1,0,0,0,1
+2021,contracted_legal_language_portuguese,0,0,1,0,0,1
+2021,Contracted Legal Language: French,0,1,0,0,0,1
+2021,Contracted Legal Language: Mandarin,0,0,1,0,0,1
+2021,Contracted_NonLegal_Case_Management,4,4,3,3,3,17
+2021,Contracted_NonLegal_Children_Services,5,4,4,4,4,21
+2021,Contracted_NonLegal_Reception_Screening,4,4,3,4,4,19
+2021,Econ_Empower_W!SE,1,1,1,1,1,5
+2021,Econ_Empower_Steps_Success,0,0,1,0,0,1
+2021,Econ_Empower_Everywhere,0,0,1,0,0,1
+2021,Econ_Empower_SFF,1,0,1,0,0,2
+2021,Econ_Empower_GetCoveredNYC,1,0,0,0,0,1
+2021,Econ_Empower_HRA,1,1,1,1,1,5
+2021,Econ_Empower_SNAP,1,1,0,0,0,2
+2021,Econ_Empower_HousingLink,1,1,1,0,1,4
+2021,Econ_Empower_Computer Time,0,0,0,1,0,1
+2021,Training_City_Agency_Staff,,,,,,42
+2021,Training_Non_Profit_Staff,,,,,,75
+2021,Training_Community_Members,,,,,,8
+2021,Training_Total,,,,,,125
+2021,Healthy_Rel_Workshops_Youth,,,,,,107
+2021,Healthy_Rel_Workshops_Parents,,,,,,11
+2021,Healthy_Rel_Workshops_Staff,,,,,,1
+2021,Healthy_Rel_Workshops_Total,,,,,,119
+2021,Outreach_Communiity_Events,,,,,,139
+2021,Outreach_Communiity_Meetings,,,,,,90
+2021,Outreach_Presentations,,,,,,26
+2021,Outreach_Total,,,,,,261
+2021,Reports_Published_Annual_Reports,,,,,,"ENDGBV Annual Fact Sheet 2020;
+
+ENDGBV Annual Report 2020;
+
+2021 Annual Report on Outreach to Cosmetologists;
+
+2021 Family Justice Center Client Satisfaction Survey Results;
+
+2020 Annual Report on Domestic Violence Initiatives, Indicators and Factors"
+2021,Reports_Published_Research_Reports,,,,,,"COVID-19 Impact Survey for Survivors of Domestic Violence Report;
+
+The Intersection of Domestic Violence, Race/Ethnicity and Sex 2020;
+
+Early Relationship Abuse Prevention Program (Early RAPP) Report;
+
+Evaluation Summary Report: Emergency Financial Relief Microgrants Program for Survivors of Domestic and Gender-Based Violence;
+
+2021 Survey and Convening Findings on Wellness from Domestic and Gender-Based Violence (GBV) Service Providers During COVID-19"
+2021,Reports_Published_Data_Reports,,,,,,"2020 Intimate Partner Violence Snapshot;
+
+2020 Family-Related Violence Snapshot"
+2021,Reports_Published_Other_Reports,,,,,,"2021 Annual Domestic Violence Fatality Review Committee Report;
+
+Using Restorative Approaches to Address Intimate Partner Violence: A New York City Blueprint"
+2022,FJC_Client_Visits,"12,188","11,414","9,028","11,463","6,705","50,798"
+2022,FJC_Unique_Clients,"3,637","3,574","2,412","4,600","1,683","15,906"
+2022,FJC_Unique_Clients_Service_Safety_Plan,"3,021","2,449","2,114","3,111","1,412","12,107"
+2022,FJC_Unique_Clients_Service_Crim_Just,942,258,276,448,381,"2,305"
+2022,FJC_Unique_Clients_Service_Civ_Legal,"1,011","1,186",839,993,632,"4,661"
+2022,FJC_Unique_Clients_Service_Counseling,812,626,697,"1,020",391,"3,546"
+2022,FJC_Unique_Clients_Service_Prac_Assistance,276,200,115,212,154,957
+2022,FJC_Unique_Clients_Service_Eco_Empower,68,167,271,92,124,722
+2022,FJC_Unique_Clients_Service_Housing_Shelter,91,621,454,97,280,"1,543"
+2022,FJC_Unique_Clients_Service_Health_Mental_Health,37,175,98,69,30,409
+2022,Contracted_Legal_Family_Law,2,2,2,2,2,10
+2022,Contracted_Legal_Family_Law_Para,1,1,1,1,1,5
+2022,Contracted_Legal_Immigration_Law,1,1,1,1,1,5
+2022,Contracted_Legal_Immigration_Law_Para,,,,,,5
+2022,Contracted_Legal_Housing_Law,,,,,,3
+2022,Contracted_Legal_Language_Spanish,7,1,3,3,3,17
+2022,Contracted_Legal_Language_Arabic,0,0,0,0,0,0
+2022,Contracted_Legal_Language_Korean,0,0,0,1,0,1
+2022,Contracted_Legal_Language_Russian,0,0,1,0,0,1
+2022,contracted_legal_language_farsi,0,0,0,0,0,0
+2022,contracted_legal_language_polish,0,0,0,0,0,0
+2022,contracted_legal_language_portuguese,0,0,1,0,0,1
+2022,Contracted Legal Language: French,0,1,0,0,0,1
+2022,Contracted Legal Language: Mandarin,0,0,1,0,0,1
+2022,Contracted_NonLegal_Case_Management,5,5,3,5,3,21
+2022,Contracted_NonLegal_Children_Services,5,5,4,4,4,22
+2022,Contracted_NonLegal_Reception_Screening,4,4,4,4,4,20
+2022,Econ_Empower_W!SE,1,1,1,0,1,4
+2022,Econ_Empower_Steps_Success,0,0,1,0,0,1
+2022,Econ_Empower_Everywhere,0,0,1,0,0,1
+2022,Econ_Empower_SFF,1,0,1,0,0,2
+2022,Econ_Empower_GetCoveredNYC,1,0,1,0,0,2
+2022,Econ_Empower_HRA,1,1,1,1,1,5
+2022,Econ_Empower_SNAP,1,1,0,0,0,2
+2022,Econ_Empower_HousingLink,1,1,1,1,1,5
+2022,Econ_Empower_Computer Time,0,0,0,1,0,1
+2022,Training_City_Agency_Staff,,,,,,39
+2022,Training_Non_Profit_Staff,,,,,,19
+2022,Training_Community_Members,,,,,,0
+2022,Training_Other,,,,,,11
+2022,Training_Total,,,,,,69
+2022,Outreach_Communiity_Events,,,,,,131
+2022,Outreach_Communiity_Meetings,,,,,,54
+2022,Outreach_Presentations,,,,,,18
+2022,Outreach_Other,,,,,,15
+2022,Outreach_Community_Outreach,,,,,,141
+2022,Outreach_Salon,,,,,,131
+2022,Outreach_Total,,,,,,490
+2022,Reports_Published_Annual_Reports,,,,,,"ENDGBV Annual Fact Sheet: 2021;
+
+ENDGBV Annual Report: 2021;
+
+2022 Annual Report on Outreach to Cosmetologists;
+
+2022 Family Justice Center Client Satisfaction Survey Results;
+
+2021 Annual Report on Domestic Violence Initiatives, Indicators and Factors"
+2022,Reports_Published_Research_Reports,,,,,,"2022 Rates of Intimate Partner Violence Across New York City: An Intersectional Analysis ;
+
+2020-21 Domestic Violence Race/Ethnicity and Sex Report"
+2022,Reports_Published_Data_Reports,,,,,,"2021 Intimate Partner Violence Snapshot;
+
+2021 Family-Related Violence  Snapshot"
+2023,FJC_Client_Visits,"11,033","10,492","8,931","11,906","6,801","49,163"
+2023,FJC_Unique_Clients,"4,180","3,427","2,312","4,445","1,695","16,059"
+2023,FJC_Unique_Clients_Service_Safety_Plan,"3,690","2,023","2,139","2,960","1,488","12,300"
+2023,FJC_Unique_Clients_Service_Crim_Just,"1,682",107,192,"1,224",371,"3,576"
+2023,FJC_Unique_Clients_Service_Civ_Legal,884,"1,275",723,901,418,"4,201"
+2023,FJC_Unique_Clients_Service_Counseling,456,581,734,685,314,"2,770"
+2023,FJC_Unique_Clients_Service_Prac_Assistance,332,503,231,339,165,"1,570"
+2023,FJC_Unique_Clients_Service_Eco_Empower,129,193,136,169,137,764
+2023,FJC_Unique_Clients_Service_Housing_Shelter,184,563,294,169,230,"1,440"
+2023,FJC_Unique_Clients_Service_Health_Mental_Health,46,185,106,82,61,480
+2023,Contracted_Legal_Family_Law,3,3,3,3,2,14
+2023,Contracted_Legal_Family_Law_Para,1,1,1,1,1,5
+2023,Contracted_Legal_Immigration_Law,1,1,1,1,1,5
+2023,Contracted_Legal_Immigration_Law_Para,,,,,,5
+2023,Contracted_Legal_Housing_Law,,,,,,3
+2023,Contracted_Legal_Language_Spanish,5,3,4,4,3,19
+2023,Contracted_Legal_Language_Arabic,0,0,0,0,0,0
+2023,Contracted_Legal_Language_Korean,0,0,0,0,0,0
+2023,Contracted_Legal_Language_Russian,0,0,1,0,0,1
+2023,contracted_legal_language_farsi,0,0,0,0,0,0
+2023,contracted_legal_language_polish,0,1,0,0,0,1
+2023,contracted_legal_language_portuguese,0,0,0,0,0,0
+2023,Contracted Legal Language: French,0,1,0,0,0,1
+2023,Contracted Legal Language: Mandarin,0,0,0,1,0,1
+2023,Contracted_NonLegal_Case_Management,5,5,5,5,5,25
+2023,Contracted_NonLegal_Children_Services,4,4,4,4,4,20
+2023,Contracted_NonLegal_Reception_Screening,3,4,3,4,4,18
+2023,Econ_Empower_W!SE,1,1,1,0,1,4
+2023,Econ_Empower_Steps_Success,0,0,1,0,0,1
+2023,Econ_Empower_Everywhere,0,0,1,0,0,1
+2023,Econ_Empower_SFF,1,0,1,0,0,2
+2023,Econ_Empower_GetCoveredNYC,1,0,1,0,0,2
+2023,Econ_Empower_HRA,0,0,0,0,0,0
+2023,Econ_Empower_SNAP,1,1,0,0,0,2
+2023,Econ_Empower_HousingLink,1,1,1,1,1,5
+2023,Econ_Empower_Computer Time,0,0,0,1,0,1
+2023,Econ_Empower_Financial_Coaching_TCSS,0,1,0,0,0,1
+2023,Training_City_Agency_Staff,,,,,,39
+2023,Training_Non_Profit_Staff,,,,,,42
+2023,Training_Community_Members,,,,,,0
+2023,Training_General Audience_Training,,,,,,13
+2023,Training_Other,,,,,,7
+2023,Training_Total,,,,,,101
+2023,Outreach_Communiity_Events,,,,,,38
+2023,Outreach_Communiity_Meetings,,,,,,16
+2023,Outreach_Presentations,,,,,,36
+2023,Outreach_Other,,,,,,8
+2023,Outreach_Salon,,,,,,13
+2023,Outreach_Total,,,,,,111
+2023,Reports_Published_Annual_Reports,,,,,,"ENDGBV Annual Fact Sheet: 2022;
+
+2023 Annual Report on Outreach to Cosmetologists;
+
+2023 Family Justice Center Client Satisfaction Survey Results;
+
+2023 Annual Domestic Violence Fatality Review Committee Report;
+
+2022 Annual Report on Initiatives, Indicators and Factors;
+
+2022 Annual Report on the Street Harassment Prevention Advisory Board;
+
+2022 Report on the Female, Genital Mutilation and Cutting Advisory Board"
+2023,Reports_Published_Research_Reports,,,,,,The Relationship Between Domestic Violence and Shooting Incidents in New York City
+2024,FJC_Client_Visits,"10,844","12,860","11,003","13,421","9,528","57,656"
+2024,FJC_Unique_Clients,"3,007","4,247","2,688","3,472","1,793","15,207"
+2024,FJC_Unique_Clients_Service_Safety_Plan,"4,225","2,839","2,228","2,659","1,478",13429
+2024,FJC_Unique_Clients_Service_Crim_Just,"2,083",183,158,"1,377",442,4243
+2024,FJC_Unique_Clients_Service_Civ_Legal,"1,094","1,526",685,993,485,4793
+2024,FJC_Unique_Clients_Service_Counseling,584,729,822,547,271,2953
+2024,FJC_Unique_Clients_Service_Prac_Assistance,360,"1,202",530,688,192,2972
+2024,FJC_Unique_Clients_Service_Eco_Empower,300,321,148,349,230,1348
+2024,FJC_Unique_Clients_Service_Housing_Shelter,542,856,221,260,276,2155
+2024,FJC_Unique_Clients_Service_Health_Mental_Health,85,171,84,73,88,501
+2024,Contracted_Legal_Family_Law,3,3,3,3,2,14
+2024,Contracted_Legal_Family_Law_Para,1,1,1,1,1,5
+2024,Contracted_Legal_Immigration_Law,1,1,1,1,1,5
+2024,Contracted_Legal_Immigration_Law_Para,,,,,,4
+2024,Contracted_Legal_Housing_Law,,,,,,1
+2024,Contracted_Legal_Language_Spanish,6,1,3,4,3,17
+2024,Contracted_Legal_Language_Arabic,0,0,0,0,0,0
+2024,Contracted_Legal_Language_Korean,0,0,0,0,0,0
+2024,Contracted_Legal_Language_Russian,0,0,1,0,0,1
+2024,contracted_legal_language_farsi,0,0,0,0,0,0
+2024,contracted_legal_language_polish,0,1,0,0,0,1
+2024,contracted_legal_language_portuguese,0,0,0,0,0,0
+2024,Contracted Legal Language: French,1,1,0,1,0,3
+2024,Contracted Legal Language: Mandarin,0,0,0,0,0,0
+2024,Contracted Legal Language: German,0,0,1,0,0,1
+2024,Contracted_NonLegal_Case_Management,5,5,5,5,5,25
+2024,Contracted_NonLegal_Case Management_Manager,1,1,1,1,1,1
+2024,Contracted_NonLegal_Children_Services,4,4,4,4,4,20
+2024,Contracted_NonLegal_Reception_Screening,3,4,3,4,3,17
+2024,Econ_Empower_W!SE,1,1,1,1,0,4
+2024,Econ_Empower_Steps_Success,0,0,1,0,0,1
+2024,Econ_Empower_Everywhere,0,0,1,0,0,1
+2024,Econ_Empower_SFF,1,0,1,0,0,2
+2024,Econ_Empower_GetCoveredNYC,1,0,1,0,0,2
+2024,Econ_Empower_HRA,1,1,1,1,1,5
+2024,Econ_Empower_SNAP,1,1,0,0,0,2
+2024,Econ_Empower_HousingLink,1,1,1,1,1,5
+2024,Econ_Empower_Computer Time,0,0,0,1,0,1
+2024,Econ_Empower_Financial_Coaching_TCSS,0,1,0,0,1,2
+2024,Econ_Empower_CSS_Counselor,0,1,0,0,1,2
+2024,Econ_Empower_City_Contracted,1,1,1,1,1,5
+2024,Training_City_Agency_Staff,,,,,,39
+2024,Training_Non_Profit_Staff,,,,,,38
+2024,Training_Community_Members,,,,,,0
+2024,Training_General Audience_Training,,,,,,24
+2024,Training_Other,,,,,,0
+2024,Training_Total,,,,,,101
+2024,Outreach_Communiity_Events,,,,,,91
+2024,Outreach_Communiity_Meetings,,,,,,29
+2024,Outreach_Presentations,,,,,,50
+2024,Outreach_Other,,,,,,1
+2024,Outreach_Salon,,,,,,0
+2024,Outreach_Networking,,,,,,22
+2024,Outreach_Total,,,,,,193
+2024,Reports_Published_Annual_Reports,,,,,,"2024 Annual Report on Outreach to Cosmetologists;
+
+2024 Family Justice Center Client Satisfaction Survey Results;
+
+2024 Annual Domestic Violence Fatality Review Committee Report;
+
+2023 Annual Report on Domestic Violence Initiatives, Indicators and Factors;
+
+2023 Annual Report  on the Street Harassment Prevention Advisory Board;
+
+2023 Annual Report on the Female Mutilation and Cutting Advisory Committee;
+
+End Street Harassment: 2024 Survey Report on Street Harassment in New York City;
+
+ENDGBV Annual Fact Sheet: 2023"
